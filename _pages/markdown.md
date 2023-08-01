@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Research Statement
-[CV](files/rs.pdf)
+[Research Statement](files/rs.pdf)
 
 
  
