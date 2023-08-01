@@ -29,7 +29,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Skill 1<ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
