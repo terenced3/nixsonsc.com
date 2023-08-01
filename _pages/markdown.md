@@ -1,13 +1,14 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Research Statement
+[CV](files/rs.pdf)
 
 
  
